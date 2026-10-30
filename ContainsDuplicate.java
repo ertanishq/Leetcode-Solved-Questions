@@ -12,5 +12,6 @@ class Solution {
             checking.add(nums[i]);
         }
         return false;
+
     }
 }
